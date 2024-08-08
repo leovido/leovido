@@ -57,10 +57,10 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Experience
 
-## Senior Software Engineer @ Leighton - 2021-Current
+## Senior Software Engineer @ Leighton - 2021-2024
 - IAGL whitelabel rewards app (React Native)
 
-## Senior Software Engineer (iOS) @ Leighton - 2021-Current
+## Senior Software Engineer (iOS) @ Leighton - 2021-2024
 - British Airways Executive Rewards app (iOS)
 - AER Lingus Club Rewards app (iOS, TypeScript)
 - Vueling Club Rewards app (iOS, TypeScript)
