@@ -48,7 +48,11 @@ I also offer long term mentoring sessions to improve your skills in design patte
 # Current side quests
 
 ## Lead developer @ Moxito - 2024-Current
+<img src="https://github.com/user-attachments/assets/db812fb8-d733-4a44-b137-29c976bdddfe" width="20%" />
+
 - Moxito (iOS) + AWS Lambda | iOS app to track fresh stats from your Farcaster Moxie everyday rewards
+
+Learn more at [https://warpcast.com/~/moxito](https://warpcast.com/~/channel/moxito)
 
 ## Lead developer @ TOTH - 2024-Current
 - Tip O' The Hat (side quest) | Farcaster frame + Node.js + MongoDB
