@@ -50,18 +50,29 @@ I also offer long term mentoring sessions to improve your skills in design patte
 ## Full-stack developer @ Rumourcast - 2024-Current
 <img src="https://github.com/user-attachments/assets/8116003e-5ee3-432c-bf11-f04ad51eef63" width="20%" />
 
-Rumourcast.xyz is a Farcaster client that allows users to cast fun rumours anonymously, using ZK proofs. Forked from the original Anoncast project.
+Rumourcast.xyz is a Farcaster client that allows users to cast fun rumours anonymously, using Zero-Knowledge proofs. 
 
-Technologies: TypeScript, Bun, Noir, Next.js, PostgreSQL, Redis
-
-Original Anoncast Repo: [https://github.com/slokh/anoncast](https://github.com/slokh/anoncast)
+Forked from the original Anoncast project.
 
 
-Learn more at [https://warpcast.com/~/rumours](https://warpcast.com/~/channel/rumours)
+### Tech Stack
 
-Try it here! [https://rumourcast.xyz](https://rumourcast.xyz)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/42c36fdb-1991-47d4-b5d5-c5261fa3ef5d" alt="noir" width="120" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+</p>
 
-Repo: [https://github.com/leovido/rumourcast)](https://github.com/leovido/rumourcast
+### Links
+🌐 Try Rumourcast [https://rumourcast.xyz](https://rumourcast.xyz)
+
+💬 Warpcast Channel [https://warpcast.com/~/rumours](https://warpcast.com/~/channel/rumours)
+
+📦 GitHub Repository [https://github.com/leovido/rumourcast)](https://github.com/leovido/rumourcast)
+
+🔄 Original Anoncast Repository [https://github.com/slokh/anoncast](https://github.com/slokh/anoncast)
 
 
 ## Lead developer @ Moxito - 2024-Current
