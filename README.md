@@ -49,6 +49,7 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 ## Full-stack developer @ Rumourcast - 2024-Current
 <img src="https://github.com/user-attachments/assets/8116003e-5ee3-432c-bf11-f04ad51eef63" width="20%" />
+
 Rumourcast.xyz is a Farcaster client that allows users to cast fun rumours anonymously, using ZK proofs. Forked from the original Anoncast project.
 
 Technologies: TypeScript, Bun, Noir, Next.js, PostgreSQL, Redis
