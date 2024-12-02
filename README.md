@@ -47,6 +47,14 @@ I also offer long term mentoring sessions to improve your skills in design patte
  
 # Current side quests
 
+## Full-stack developer @ Rumourcast - 2024-Current
+<img src="https://github.com/user-attachments/assets/8116003e-5ee3-432c-bf11-f04ad51eef63" width="20%" />
+
+- Rumourcast.xyz is a Farcaster client that allows users to cast fun rumours anonymously, using ZK proofs.
+
+Learn more at [https://warpcast.com/~/rumours](https://warpcast.com/~/channel/rumours)
+Try it here! [https://rumourcast.xyz](https://rumourcast.xyz)
+
 ## Lead developer @ Moxito - 2024-Current
 <img src="https://github.com/user-attachments/assets/db812fb8-d733-4a44-b137-29c976bdddfe" width="20%" />
 
