@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Leovido</h3>
+ef<h3 align="center">👋 Hi, I'm Leovido</h3>
 
 <p align="center">
   <a href="https://warpcast.com/leovido.eth">Warpcast</a>
@@ -70,7 +70,7 @@ Forked from the original Anoncast project.
 
 💬 Warpcast Channel [https://warpcast.com/~/rumours](https://warpcast.com/~/channel/rumours)
 
-📦 GitHub Repository [https://github.com/leovido/rumourcast)](https://github.com/leovido/rumourcast)
+📦 GitHub Repository [https://github.com/leovido/rumourcast](https://github.com/leovido/rumourcast)
 
 🔄 Original Anoncast Repository [https://github.com/slokh/anoncast](https://github.com/slokh/anoncast)
 
