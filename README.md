@@ -85,6 +85,14 @@ Learn more at [https://warpcast.com/~/moxito](https://warpcast.com/~/channel/mox
 ## Lead developer @ TOTH - 2024-Current
 - Tip O' The Hat (side quest) | Farcaster frame + Node.js + MongoDB
 
+### Tech Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
 ## Farcaster frames developer @ TOTH - 2024-Current
 - "Who did I tip?" frames (Frog, Neynar, Airstack)
 - $DEGEN edition
