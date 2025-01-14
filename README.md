@@ -1,4 +1,4 @@
-ef<h3 align="center">👋 Hi, I'm Leovido</h3>
+<h3 align="center">👋 Hi, I'm Leovido</h3>
 
 <p align="center">
   <a href="https://warpcast.com/leovido.eth">Warpcast</a>
