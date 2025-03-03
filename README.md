@@ -10,8 +10,7 @@
 
 I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. DevOps, Onchain explorer, Blockchain, Functional (reactive) programming.
 
-I am currently working full-time on the Rewards app at IAGL (Avios) through Leighton. The apps I work on are known for allowing users to collect, and spend Avios points: British Airways Executive Club, Aer Club and Vueling Club.
-
+I am currently looking for a full-time job in Madrid, Spain.
 I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
 - ⌨️ Passionate about Farcaster, DevOps, CI/CD pipelines and automation
