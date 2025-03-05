@@ -84,7 +84,7 @@ Learn more at [https://warpcast.com/~/moxito](https://warpcast.com/~/channel/mox
 ## Full-stack developer @ Rumourcast - 2024-Current
 <img src="https://github.com/user-attachments/assets/8116003e-5ee3-432c-bf11-f04ad51eef63" width="20%" />
 
-Rumourcast.xyz is a Farcaster client that allows users to cast fun rumours anonymously, using Zero-Knowledge proofs. 
+Rumourcast.fun is a Farcaster client that allows users to cast fun rumours anonymously, using Zero-Knowledge proofs. 
 
 Forked from the original Anoncast project.
 
@@ -100,7 +100,7 @@ Forked from the original Anoncast project.
 </p>
 
 ### Links
-🌐 Try Rumourcast [https://rumourcast.xyz](https://rumourcast.xyz)
+🌐 Try Rumourcast [https://rumourcast.fun](https://rumourcast.fun)
 
 💬 Warpcast Channel [https://warpcast.com/~/rumours](https://warpcast.com/~/channel/rumours)
 
