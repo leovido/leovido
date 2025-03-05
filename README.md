@@ -1,8 +1,9 @@
 <h3 align="center">👋 Hi, I'm Christian Ray Leovido</h3>
 
 <p align="center">
-  <a href="https://warpcast.com/leovido.eth">Farcaster profile</a>
-  <a href="https://www.linkedin.com/in/christianleovido/">LinkedIn profile</a>
+  <a href="https://warpcast.com/leovido.eth"><img src="https://github.com/vrypan/farcaster-brand/raw/main/icons/icon-rounded/purple-white.png" width="32" height="32" alt="Farcaster"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/christianleovido/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"></a>
 </p>
 
 ---
