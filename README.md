@@ -1,22 +1,23 @@
 <h3 align="center">👋 Hi, I'm Christian Ray Leovido</h3>
 
 <p align="center">
-  <a href="https://warpcast.com/leovido.eth">Warpcast</a>
+  <a href="https://warpcast.com/leovido.eth">Farcaster profile</a>
+  <a href="https://www.linkedin.com/in/christianleovido/">LinkedIn profile</a>
 </p>
 
 ---
 
-I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. DevOps, Onchain explorer, Blockchain, Functional (reactive) programming.
+I'm a Senior Software Engineer with more than 8 years of experience in iOS mobile development and full-stack. My skills range from Swift, SwiftUI, React Native to TypeScript, React, DevOps and more! 
 
 I am currently looking for a full-time job in Madrid, Spain.
 I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
 - ⌨️ Passionate about Farcaster, DevOps, CI/CD pipelines and automation
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
-- 👀 Blockchain technology and developing dApps, wallets, FC frames
+- 👀 Blockchain technology and developing dApps, wallets, FC frames. Find me on Farcaster! Profile [here](https://warpcast.com/leovido.eth)
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
-- 👔 JavaScript, TypeScript, React, Redux
+- 👔 JavaScript, TypeScript, React, React Native, Redux
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
 - 🎹 Pianist [@youtube](https://www.youtube.com/channel/UCEfGXwW2g3U7td8WPnzim1w)
 - 📩 How to reach me: [@leovido](mailto:0xleovido@protonmail.com)
