@@ -119,10 +119,14 @@ Forked from the original Anoncast project.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
-## Farcaster frames developer @ TOTH - 2024-Current
-- "Who did I tip?" frames (Frog, Neynar, Airstack)
-- $DEGEN edition
-- HAM edition
+## Farcaster frames developer - 2024-Current
+1. "Who did I tip?" (WDIT) frames (Frog, Neynar, Airstack)
+2. $DEGEN edition frame (WDIT)
+3. HAM edition frame (WDIT)
+4. Eeeefier frame
+5. Liquidity rewards ($TN100X) frame
+6. Moxito check-in frame
+7. Various infographics for Moxito
 
 # Experience
 
