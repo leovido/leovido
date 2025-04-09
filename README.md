@@ -45,13 +45,60 @@ I also offer long term mentoring sessions to improve your skills in design patte
     - Cypress (tests)
     - Jest, Enzyme (tests)
     - Noir (ZK)
-
+ 
 ## AWS Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/dca4de90-21f9-4b34-a530-84f56a7a9b38)
 [![AWS Certified AI ML Practitioner](https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/788a72c7-0241-46ae-8c67-0f059082defd)
 [![AWS AI Early Adopter](
  https://images.credly.com/size/200x200/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/5668ae4c-ae98-482d-b9ff-664fce5896b0)
+
+# Experience
+
+## Senior Software Engineer @ Leighton - 2021-2024
+- IAGL whitelabel rewards app (React Native)
+
+## Senior Software Engineer (iOS) @ Leighton - 2021-2024
+- British Airways Executive Rewards app (iOS)
+- AER Lingus Club Rewards app (iOS, TypeScript)
+- Vueling Club Rewards app (iOS, TypeScript)
+- Financial service integration with Mastercard (SwiftUI, Combine, Swift Package Manager)
+
+## Software Consultant and Contractor - 2020-2021
+- Building a production app with The Composable Architecture by Pointfree
+
+### Audyo - 2021
+- Reading audio iOS app
+https://audyo.ai/
+
+### Bitcoin key management wallet - 2021
+- Porting a JS module into Swift
+- Tranforming the Figma design into SwiftUI
+- Swift Package Manager to import dependencies into main Xcode project (no Cocoapods, no Carthage)
+
+### Freelance (iOS) - 2021
+- Management app (UIKit, Combine, Salesforce SDK)
+- Cocoapods dependency manager
+
+### Freelance (iOS) - 2020
+- Medical app for an individual (from ObjC to SwiftUI, MVVM, CoreData)
+- Local storage with Core Data
+
+### Contract (Cypress, React) - 2020-2021
+- Testing framework - Medical web application for a company (Cypress, React, Monorepo)
+
+## Lead developer @ Accent IT Services (2016-2020)
+- AccentPOS (Swift, SwiftUI, SPM, Cocoapods, MVC to MVVM)
+- AccentPOS backend (Hapi, Node, MongoDB)
+- AccentPeak (Swift, RxSwift, MVVM)
+- AccentKit (framework)
+### API integrations in AccentPOS
+- Star Micronics SDK (printer, CoreBluetooth)
+- Marketman (inventory management)
+- Deliverect (deliveries channel for Deliveroo, Uber Eats, etc.)
+- Paymentsense (card payments provider)
+- EVO payments (card payments provider)
+- Xero (accounts management)
 
 # Current side quests (side projects)
 
@@ -127,53 +174,6 @@ Forked from the original Anoncast project.
 5. Liquidity rewards ($TN100X) frame
 6. Moxito check-in frame
 7. Various infographics for Moxito
-
-# Experience
-
-## Senior Software Engineer @ Leighton - 2021-2024
-- IAGL whitelabel rewards app (React Native)
-
-## Senior Software Engineer (iOS) @ Leighton - 2021-2024
-- British Airways Executive Rewards app (iOS)
-- AER Lingus Club Rewards app (iOS, TypeScript)
-- Vueling Club Rewards app (iOS, TypeScript)
-- Financial service integration with Mastercard (SwiftUI, Combine, Swift Package Manager)
-
-## Software Consultant and Contractor - 2020-2021
-- Building a production app with The Composable Architecture by Pointfree
-
-### Audyo - 2021
-- Reading audio iOS app
-https://audyo.ai/
-
-### Bitcoin key management wallet - 2021
-- Porting a JS module into Swift
-- Tranforming the Figma design into SwiftUI
-- Swift Package Manager to import dependencies into main Xcode project (no Cocoapods, no Carthage)
-
-### Freelance (iOS) - 2021
-- Management app (UIKit, Combine, Salesforce SDK)
-- Cocoapods dependency manager
-
-### Freelance (iOS) - 2020
-- Medical app for an individual (from ObjC to SwiftUI, MVVM, CoreData)
-- Local storage with Core Data
-
-### Contract (Cypress, React) - 2020-2021
-- Testing framework - Medical web application for a company (Cypress, React, Monorepo)
-
-## Lead developer @ Accent IT Services (2016-2020)
-- AccentPOS (Swift, SwiftUI, SPM, Cocoapods, MVC to MVVM)
-- AccentPOS backend (Hapi, Node, MongoDB)
-- AccentPeak (Swift, RxSwift, MVVM)
-- AccentKit (framework)
-### API integrations in AccentPOS
-- Star Micronics SDK (printer, CoreBluetooth)
-- Marketman (inventory management)
-- Deliverect (deliveries channel for Deliveroo, Uber Eats, etc.)
-- Paymentsense (card payments provider)
-- EVO payments (card payments provider)
-- Xero (accounts management)
 
 <img width=500 src='https://github-readme-stats.vercel.app/api?username=leovido&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true' />
 
