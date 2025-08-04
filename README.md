@@ -13,27 +13,27 @@ I'm a Senior Software Engineer with more than 8 years of experience in iOS mobil
 I am currently looking for a full-time job in Madrid, Spain.
 I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
-- ⌨️ Passionate about Farcaster, DevOps, CI/CD pipelines and automation
+- ⌨️ Passionate about Farcaster, web3, DevOps, CI/CD pipelines and automation
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
-- 👀 Blockchain technology and developing dApps, wallets, FC frames. Find me on Farcaster! Profile [here](https://warpcast.com/leovido.eth)
+- 👀 Blockchain technology and developing dApps, wallets, Farcaster mini-apps. Find me on Farcaster! Profile [here](https://farcaster.xyz/leovido.eth)
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
 - 👔 JavaScript, TypeScript, React, React Native, Redux
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
-- 🎹 Pianist [@youtube](https://www.youtube.com/channel/UCEfGXwW2g3U7td8WPnzim1w)
-- 📩 How to reach me: [@leovido](mailto:0xleovido@protonmail.com)
+- 🎹 My YouTube piano channel [@youtube](https://www.youtube.com/channel/UCEfGXwW2g3U7td8WPnzim1w)
+- 📩 How to reach me: [@leovido](mailto:moxito.oyster585@passinbox.com)
 
 # Skills
 
 - 8+ Years of iOS development (iOS 10 - iOS 18)
     - Swift:
-        - SwiftUI, Combine
+        - SwiftUI, Combine, UIKit
         - RxSwift
         - XCTest, XCUITest, Snapshot testing
         - Apollo (GraphQL)
     - Interests: DevOps, functional programming, software architecture, TDD (test driven development), team development
 - 3 years of React Native
-- Farcaster frames (frames.js, Frog)
+- Farcaster frames (frames.js, Frog) and mini-apps
 - Other skills and frameworks
     - AWS
     - Scrum, Kanban
@@ -54,6 +54,9 @@ I also offer long term mentoring sessions to improve your skills in design patte
  https://images.credly.com/size/200x200/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/5668ae4c-ae98-482d-b9ff-664fce5896b0)
 
 # Experience
+
+## Senior iOS Engineer @ Luzia - 2025
+- Luzia AI iOS app
 
 ## Senior Software Engineer @ Leighton - 2021-2024
 - IAGL whitelabel rewards app (React Native)
