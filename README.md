@@ -105,7 +105,7 @@ https://audyo.ai/
 Side projects include a wide variety of projects, ranging from Full-Stack web development, iOS apps, React Native, ZK proofs and lots more.
 I keep building for fun and to keep my skills up to date to latest and modern technologies. Exploring different programming languages such as Rust and Noir, to stay ahead with groundbreaking tech.
 
-## Founder and Lead iOS developer @ Moxito - 2024-Current
+## Founder and Lead iOS developer @ Moxito - 2024
 <img src="https://github.com/user-attachments/assets/db812fb8-d733-4a44-b137-29c976bdddfe" width="20%" />
 
 Moxito (iOS) + AWS Lambda | iOS app to track fresh stats from your Farcaster Moxie everyday rewards
@@ -128,7 +128,7 @@ https://github.com/leovido/moxito-ios
 
 Learn more at [https://warpcast.com/~/moxito](https://warpcast.com/~/channel/moxito)
 
-## Full-stack developer @ Rumourcast - 2024-Current
+## Full-stack developer @ Rumourcast - 2024
 <img src="https://github.com/user-attachments/assets/8116003e-5ee3-432c-bf11-f04ad51eef63" width="20%" />
 
 Rumourcast.fun is a Farcaster client that allows users to cast fun rumours anonymously, using Zero-Knowledge proofs. 
@@ -155,7 +155,7 @@ Forked from the original Anoncast project.
 
 🔄 Original Anoncast Repository [https://github.com/slokh/anoncast](https://github.com/slokh/anoncast)
 
-## Lead developer @ TOTH - 2024-Current
+## Lead developer @ TOTH - 2024
 - Tip O' The Hat (side quest) | Farcaster frame + Node.js + MongoDB
 
 ### Tech Stack
