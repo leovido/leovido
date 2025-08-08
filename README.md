@@ -108,6 +108,55 @@ https://audyo.ai/
 Side projects include a wide variety of projects, ranging from Full-Stack web development, iOS apps, React Native, ZK proofs and lots more.
 I keep building for fun and to keep my skills up to date to latest and modern technologies. Exploring different programming languages such as Rust and Noir, to stay ahead with groundbreaking tech.
 
+## Lead developer @ ReplyCast (Farcaster mini-app) - July 2025
+## 🎯 ReplyCast - Never Miss a Reply Again
+A sophisticated Farcaster Mini App that revolutionizes how you manage conversations on the decentralized social network. Built with modern web technologies and designed for the Farcaster ecosystem.
+
+### Screenshots
+<p>
+  <img src="https://github.com/user-attachments/assets/a53532c5-10c2-4697-8e81-ad6e0c97c6c6" width="30%" />
+  <img src="https://github.com/user-attachments/assets/43df208c-1f1f-4f27-9300-242d34d030fc" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b08fca3f-19b9-41bd-8d5e-166d7226e5e2" width="30%" />
+</p>
+
+### Tech stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</p>
+
+### ✨ Key Features
+🔍 Smart Reply Detection - Automatically identifies conversations where you haven't responded
+📱 iOS-Style Interface - Intuitive tab navigation (Inbox, Focus, Analytics) with haptic feedback
+👆 Gesture Controls - Swipe right to mark as read, swipe left to discard conversations
+📊 Analytics Dashboard - Track engagement patterns with OpenRank integration
+🎨 Multi-Theme Support - Dark, Light, and signature Farcaster themes
+⚡ Real-time Updates - Pull-to-refresh and live conversation tracking
+🎓 Interactive Tutorials - Smooth onboarding with animated guides
+
+### 🛠 Technical Highlights
+Framework: Next.js 14 + TypeScript + Tailwind CSS
+Farcaster Integration: Official Mini App SDK with cast composition
+State Management: React hooks with localStorage persistence
+Performance: Optimized with infinite scroll, memoization, and lazy loading
+Analytics: Vercel Analytics with custom event tracking
+Testing: Jest + React Testing Library (95%+ coverage)
+CI/CD: GitHub Actions with automated testing and deployment
+
+### 🎨 UX/UI Excellence
+Responsive Design: Seamless mobile-first experience
+Accessibility: WCAG compliant with keyboard navigation
+Smooth Animations: Hardware-accelerated transitions and micro-interactions
+Glass Morphism: Modern design with backdrop blur effects
+Touch Optimized: Gesture-based interactions for mobile users
+
+### 🔧 Advanced Features
+OpenRank Integration: Community influence scoring and ranking
+Cast Deduplication: Smart filtering to prevent duplicate entries
+Tutorial System: First-time user guidance with completion tracking
+Error Boundaries: Comprehensive error handling and user feedback
+Performance Monitoring: Real-time analytics and performance tracking
+
 ## Founder and Lead iOS developer @ Moxito - 2024
 <img src="https://github.com/user-attachments/assets/db812fb8-d733-4a44-b137-29c976bdddfe" width="20%" />
 
@@ -138,6 +187,16 @@ Rumourcast.fun is a Farcaster client that allows users to cast fun rumours anony
 
 Forked from the original Anoncast project.
 
+### Screenshots
+
+#### Mobile version
+<p>
+  <img src="https://github.com/user-attachments/assets/7478c359-d63a-458c-8398-3e36b8619969" width="30%" />
+  <img src="https://github.com/user-attachments/assets/147e9532-d75b-4c20-b645-7b437181203c" width="30%" />
+</p>
+
+#### Web version
+<img src="https://github.com/user-attachments/assets/5e8a2e06-6065-4cc7-ae91-a0c43ad2ac41" width="100%" />
 
 ### Tech Stack
 
@@ -148,6 +207,7 @@ Forked from the original Anoncast project.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
 </p>
+
 
 ### Links
 🌐 Try Rumourcast [https://rumourcast.fun](https://rumourcast.fun)
