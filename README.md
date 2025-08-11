@@ -55,6 +55,17 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Experience
 
+## Freelance - 2025
+Provide strategic guidance to support 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝘀𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 of the 𝗶𝗢𝗦 𝗮𝗽𝗽.
+
+My responsibilities include both 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 work and 𝗮𝗱𝘃𝗶𝘀𝗼𝗿𝘆 𝘀𝘂𝗽𝗽𝗼𝗿𝘁:
+
+ - Conducted a comprehensive 𝗺𝗲𝗺𝗼𝗿𝘆 𝗹𝗲𝗮𝗸 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀, improving 𝗮𝗽𝗽 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 and 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆.
+ - Performed a 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝘂𝗱𝗶𝘁 to identify 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀 and ensure 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲.
+ - Oversaw 𝗔𝗽𝗽 𝗦𝘁𝗼𝗿𝗲 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 and 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻𝘀.
+ - Advised the client on 𝗰𝗼𝗱𝗲 𝘀𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮𝗹 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁𝘀, and implementation of 𝗶𝗢𝗦 𝗯𝗲𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀.
+ - Reviewed and 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿𝗲𝗱 existing 𝗰𝗼𝗱𝗲𝗯𝗮𝘀𝗲 for 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗺𝗼𝗱𝘂𝗹𝗮𝗿𝗶𝘁𝘆, and 𝘁𝗲𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆.
+
 ## Senior iOS Engineer @ Luzia - 2025
 - Luzia AI iOS app
 
@@ -126,36 +137,42 @@ A sophisticated Farcaster Mini App that revolutionizes how you manage conversati
 </p>
 
 ### ✨ Key Features
-🔍 Smart Reply Detection - Automatically identifies conversations where you haven't responded
-📱 iOS-Style Interface - Intuitive tab navigation (Inbox, Focus, Analytics) with haptic feedback
-👆 Gesture Controls - Swipe right to mark as read, swipe left to discard conversations
-📊 Analytics Dashboard - Track engagement patterns with OpenRank integration
-🎨 Multi-Theme Support - Dark, Light, and signature Farcaster themes
-⚡ Real-time Updates - Pull-to-refresh and live conversation tracking
-🎓 Interactive Tutorials - Smooth onboarding with animated guides
+
+- 🔍 Smart Reply Detection - Automatically identifies conversations where you haven't responded
+- 📱 iOS-Style Interface - Intuitive tab navigation (Inbox, Focus, Analytics) with haptic feedback
+- 👆 Gesture Controls - Swipe right to mark as read, swipe left to discard conversations
+- 📊 Analytics Dashboard - Track engagement patterns with OpenRank integration
+- 🎨 Multi-Theme Support - Dark, Light, and signature Farcaster themes
+- ⚡ Real-time Updates - Pull-to-refresh and live conversation tracking
+- 🎓 Interactive Tutorials - Smooth onboarding with animated guides
+
 
 ### 🛠 Technical Highlights
-Framework: Next.js 14 + TypeScript + Tailwind CSS
-Farcaster Integration: Official Mini App SDK with cast composition
-State Management: React hooks with localStorage persistence
-Performance: Optimized with infinite scroll, memoization, and lazy loading
-Analytics: Vercel Analytics with custom event tracking
-Testing: Jest + React Testing Library (95%+ coverage)
-CI/CD: GitHub Actions with automated testing and deployment
+
+- Framework: Next.js 14 + TypeScript + Tailwind CSS
+- Farcaster Integration: Official Mini App SDK with cast composition
+- State Management: React hooks with localStorage persistence
+- Performance: Optimized with infinite scroll, memoization, and lazy loading
+- Analytics: Vercel Analytics with custom event tracking
+- Testing: Jest + React Testing Library (95%+ coverage)
+- CI/CD: GitHub Actions with automated testing and deployment
 
 ### 🎨 UX/UI Excellence
-Responsive Design: Seamless mobile-first experience
-Accessibility: WCAG compliant with keyboard navigation
-Smooth Animations: Hardware-accelerated transitions and micro-interactions
-Glass Morphism: Modern design with backdrop blur effects
-Touch Optimized: Gesture-based interactions for mobile users
+
+- Responsive Design: Seamless mobile-first experience
+- Accessibility: WCAG compliant with keyboard navigation
+- Smooth Animations: Hardware-accelerated transitions and micro-interactions
+- Glass Morphism: Modern design with backdrop blur effects
+- Touch Optimized: Gesture-based interactions for mobile users
 
 ### 🔧 Advanced Features
-OpenRank Integration: Community influence scoring and ranking
-Cast Deduplication: Smart filtering to prevent duplicate entries
-Tutorial System: First-time user guidance with completion tracking
-Error Boundaries: Comprehensive error handling and user feedback
-Performance Monitoring: Real-time analytics and performance tracking
+
+- OpenRank Integration: Community influence scoring and ranking
+- Cast Deduplication: Smart filtering to prevent duplicate entries
+- Tutorial System: First-time user guidance with completion tracking
+- Error Boundaries: Comprehensive error handling and user feedback
+- Performance Monitoring: Real-time analytics and performance tracking
+
 
 ## Founder and Lead iOS developer @ Moxito - 2024
 <img src="https://github.com/user-attachments/assets/db812fb8-d733-4a44-b137-29c976bdddfe" width="20%" />
