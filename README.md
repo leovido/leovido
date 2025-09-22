@@ -33,10 +33,10 @@ I also offer long term mentoring sessions to improve your skills in design patte
         - Apollo (GraphQL)
     - Interests: DevOps, functional programming, software architecture, TDD (test driven development), team development
 - 3 years of React Native
-- Farcaster frames (frames.js, Frog) and mini-apps
+- Farcaster frames (frames.js, Frog, Next) and mini-apps
 - Other skills and frameworks
     - AWS
-    - Scrum, Kanban
+    - Agile, Scrum, Kanban
     - GitHub Actions, Fastlane, Codemagic
     - JavaScript, TypeScript
     - React and React Native
@@ -55,19 +55,25 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Experience
 
-## Freelance - 2025
-Provide strategic guidance to support 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝘀𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 of the 𝗶𝗢𝗦 𝗮𝗽𝗽.
+## Independent Work, Founder/Solo Developer
 
-My responsibilities include both 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 work and 𝗮𝗱𝘃𝗶𝘀𝗼𝗿𝘆 𝘀𝘂𝗽𝗽𝗼𝗿𝘁:
+Jun 2025 - PRESENT
 
- - Conducted a comprehensive 𝗺𝗲𝗺𝗼𝗿𝘆 𝗹𝗲𝗮𝗸 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀, improving 𝗮𝗽𝗽 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 and 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆.
- - Performed a 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝘂𝗱𝗶𝘁 to identify 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀 and ensure 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲.
- - Oversaw 𝗔𝗽𝗽 𝗦𝘁𝗼𝗿𝗲 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 and 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻𝘀.
- - Advised the client on 𝗰𝗼𝗱𝗲 𝘀𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮𝗹 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁𝘀, and implementation of 𝗶𝗢𝗦 𝗯𝗲𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀.
- - Reviewed and 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿𝗲𝗱 existing 𝗰𝗼𝗱𝗲𝗯𝗮𝘀𝗲 for 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗺𝗼𝗱𝘂𝗹𝗮𝗿𝗶𝘁𝘆, and 𝘁𝗲𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆.
+**ReplyCast** — Farcaster mini-app (Jun 2025–Present) https://replycast.leovido.xyz
+ 
+ • Built with React/Next/Vercel.
+ 
+ • Outcome: Top 140 on release day on Farcaster leaderboard; incorporated user feedback to improve and simplify UX.
 
-## Senior iOS Engineer @ Luzia - 2025
-- Luzia AI iOS app
+**Moxito** (iOS, React Native) — crypto based health rewards app (rebrand) https://farcaster.xyz/~/channel/moxito
+ 
+ • HealthKit steps/activity, privacy-aware syncing, rewards model; rebrand + UX refresh to improve clarity of value prop.
+ 
+ • Outcome: 100 users on TestFlight, 1.1K followers on /moxito channel on Farcaster.
+
+## Senior iOS Engineer @ Luzia - Apr 2025/Jun 2025
+- Integrated Google Ads SDK and configured placements with minimal UX/performance impact.  
+- Fixed high-impact bugs and refactored modules with added unit test coverage.  
 
 ## Senior Software Engineer @ Leighton - 2021-2024
 - IAGL whitelabel rewards app (React Native)
