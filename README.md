@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Senior Software Engineer with more than 8 years of experience in iOS mobile development and full-stack. My skills range from Swift, SwiftUI, React Native to TypeScript, React, DevOps and more! 
+I'm a Senior Software Engineer with more than 9 years of experience in iOS mobile development and full-stack. My skills range from Swift, SwiftUI, React Native to TypeScript, React, DevOps and more! 
 
 I am currently looking for a full-time job in Madrid, Spain or remote from anywhere.
 I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
@@ -25,7 +25,7 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Skills
 
-- 8+ Years of iOS development (iOS 10 - iOS 18)
+- 9+ Years of iOS development (iOS 10 - iOS 18)
     - Swift:
         - SwiftUI, Combine, UIKit
         - RxSwift
