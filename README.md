@@ -43,12 +43,19 @@ Farcaster rewards tracking app with privacy-first architecture. Won 2 hackathons
 
 ### AWS Certifications
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/dca4de90-21f9-4b34-a530-84f56a7a9b38)
-
-[![AWS Certified AI ML Practitioner](https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/788a72c7-0241-46ae-8c67-0f059082defd)
-
-[![AWS AI Early Adopter](
- https://images.credly.com/size/200x200/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/5668ae4c-ae98-482d-b9ff-664fce5896b0)
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.credly.com/badges/dca4de90-21f9-4b34-a530-84f56a7a9b38" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 200px; height: 200px;">
+  </a>
+  
+  <a href="https://www.credly.com/badges/788a72c7-0241-46ae-8c67-0f059082defd" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI ML Practitioner" style="width: 200px; height: 200px;">
+  </a>
+  
+  <a href="https://www.credly.com/badges/5668ae4c-ae98-482d-b9ff-664fce5896b0" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS AI Early Adopter" style="width: 200px; height: 200px;">
+  </a>
+</div>
 
 ### Codementor profile
 
