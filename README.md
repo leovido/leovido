@@ -3,7 +3,7 @@
 
 9+ years building production iOS apps at scale. Led 80% CI/CD optimization and architecture migrations for airline loyalty programs (British Airways, Aer Lingus, Vueling). Expert in secure payments, trunk-based delivery, and scalable mobile architectures.
 
-**Available for contract work** | [Email](mailto:0xleovido@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
+**Available for full-time and contract work** | [Email](mailto:0xleovido@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
 
 ---
 
