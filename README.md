@@ -1,7 +1,11 @@
-# Christian Ray Leovido
-**Senior iOS Engineer** | SwiftUI, UIKit, TCA | Madrid, Spain
+# C. Leovido
+**Senior Mobile Engineer** | React Native, SwiftUI, UIKit | Madrid, Spain
 
-9+ years building production iOS apps at scale. Led 80% CI/CD optimization and architecture migrations for airline loyalty programs (British Airways, Aer Lingus, Vueling). Expert in secure payments, trunk-based delivery, and scalable mobile architectures.
+I'm a **Senior Mobile Engineer** with **9 years scaling apps** for **millions** of users. At Avios (IAG Loyalty), I led the **UIKit -> SwiftUI -> React Native migration** for British Airways, Aer Lingus, and Vueling—reducing codebase by **60%**, cutting release cycles from **8 to 2 weeks**, and enabling 3x faster feature delivery for **5M+ users**. I've reduced CI/CD build times by **80%**, integrated secure payments (3DS2, Apple Pay), and established TDD practices across teams.
+
+Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS app and **payment integrations**, which won a **2018 Business Innovation Award**. I'm also a **5-star Codementor with 155+ sessions**, and recently won **2 hackathons with Moxito**, a Web3 fitness rewards app on Farcaster.
+
+I'm currently exploring opportunities where I can combine mobile architecture, team leadership, and emerging tech like Web3, ideally in a remote-first environment.
 
 **Available for full-time and contract work** | [Email](mailto:0xleovido@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
 
@@ -20,17 +24,14 @@
 
 ## Core Expertise
 
-**iOS**: Swift 6.x, SwiftUI, UIKit, Combine, async/await, The Composable Architecture (TCA), Xcode Cloud, protocol-oriented programming (POP), MVVM+Coordinator, Cocoapods, Swift Package Manager (SPM), Keychain, CallKit, APNs, CallKit, AVFoundation, CoreData, App Tracking Transparency, Privacy Manifest, Deep Linking/Universal Links
-
-**Testing and Quality**: TDD/BDD, XCTest, XCUITest, Given-When-Then, Jest, Feature Flags, Crashlytics, Firebase, Instruments profiling, Cypress, Charles Proxy
-
-**DevOps and Release**: Fastlane, GitHub Actions, CI/CD, App Store Connect, TestFlight, Trunk-based development, Git (rebase/squash/fixups), Docker
-
-**Security and Payments**: SSL Pinning, 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Pay, Apple Wallet, Google Pay, Auth0 OAuth2/OIDC, Encryption
-
-**Cross-platform**: React Native (3 years production), Expo, Metro, Hermes, React Navigation, Redux Toolkit, Native Modules
-
-**Other**: AWS (Lambda, Serverless), TypeScript, ReactJS, NextJS, NodeJS, MongoDB, Localization, Accessibility
+**Mobile & Frontend**: React Native (Expo), iOS (Swift, SwiftUI), Android (Kotlin), TypeScript, React, Next.js
+**React Native**: Expo, Metro, Hermes, React Navigation, Redux Toolkit, Native Modules.
+**iOS**: Swift 6.x, SwiftUI, UIKit, Objective-C, Core Animation, Core Data, AVFoundation, Combine, async/await, The Composable Architecture (TCA), Xcode Cloud, protocol-oriented programming (POP), MVVM+Coordinator, Cocoapods, Swift Package Manager, Keychain, CallKit, APNs, CoreData, App Tracking Transparency, Privacy Manifest, Deep Linking/Universal Links.
+**Crypto/Web3**: Smart Contracts (Solidity, Hardhat), Wallet Integration (WalletConnect, Metamask SDK), ethers.js, viem, Zero-Knowledge Proofs (Noir), Farcaster SDK
+**Security and Payments**: SSL Pinning, 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Pay, Apple Wallet, Google Pay, Auth0 OAuth2/OIDC, Secure Enclave, biometric auth, encryption.
+**Testing and Quality**: TDD/BDD, XCTest, XCUITest, Given-When-Then, Jest, Feature Flags, Crashlytics, Firebase, Instruments profiling, Cypress, Charles Proxy.
+**DevOps and Release**: Fastlane, GitHub Actions, CI/CD, App Store Connect, TestFlight, Trunk-based development, Git (rebase/squash/fixups), Docker.
+**Other**: AWS (Lambda, Serverless), NextJS, NodeJS, Supabase, MongoDB, Localization, Accessibility.
 
 ---
 
@@ -100,7 +101,7 @@ Star Wars planet browser showcasing modern iOS patterns. **Take-home exercise th
 
 ### [TCA Finance App](https://github.com/leovido/composable-much-better-exercise)
 *The Composable Architecture • SwiftUI • SPM*  
-Finance demo with modular architecture. **Take-home that got me an offer from Much Better.**
+Finance demo with modular architecture. **Take-home that got me an offer from "Much Better".**
 
 ### [Functional Programming Case Study](https://github.com/leovido/FP-CaseStudy-Swift)
 *Pure Functions • Monads • State Management*  
@@ -108,7 +109,7 @@ Swift port of "13 Ways of Looking at a Turtle" from F#. Exploring functional pat
 
 ### [Rumourcast](https://github.com/leovido/rumourcast)
 *Zero-Knowledge Proofs • Farcaster Protocol*  
-Anonymous Farcaster client using Noir ZK proofs. [Live at rumourcast.fun](https://rumourcast.fun)
+Anonymous Farcaster client using Noir ZK proofs.
 
 ---
 
@@ -123,7 +124,7 @@ Anonymous Farcaster client using Noir ZK proofs. [Live at rumourcast.fun](https:
 ## 🚀 Currently
 
 **Exploring:** Farcaster protocol, React Native architecture patterns, modern iOS development  
-**Available for:** Senior iOS Engineer roles (Madrid/Remote EU) and contract iOS/React Native work  
+**Available for:** Senior Mobile Engineer roles (Madrid/Remote EU) and contract iOS/React Native work  
 **Looking for:** Product-focused teams that value quality, trunk-based development, and building products users love
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/christianleovido/) • [Twitter](https://twitter.com/c_leovido) • [Farcaster](https://warpcast.com/leovido.eth)
@@ -138,4 +139,4 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/christianleovido/) • [Tw
 
 ---
 
-📍 Madrid, Spain | 🌍 Open to remote EU opportunities | 💼 Available for immediate contract work
+📍 Madrid, Spain | 🌍 Open to **remote** opportunities | 💼 Available for immediate work
