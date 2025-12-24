@@ -1,7 +1,7 @@
 # C. Leovido
 **Senior Mobile Engineer** | React Native, SwiftUI, UIKit | Madrid, Spain
 
-I'm a **Senior Mobile Engineer** with **9 years scaling apps** for **millions** of users. At Avios (IAG Loyalty), I led the **UIKit -> SwiftUI -> React Native migration** for British Airways, Aer Lingus, and Vueling—reducing codebase by **60%**, cutting release cycles from **8 to 2 weeks**, and enabling 3x faster feature delivery for **5M+ users**. I've reduced CI/CD build times by **80%**, integrated secure payments (3DS2, Apple Pay), and established TDD practices across teams.
+I'm a **Senior Mobile Engineer** with **9 years scaling apps** for **millions** of users. At Avios (IAG Loyalty), I led the **UIKit -> SwiftUI -> React Native migration** for British Airways, Aer Lingus, and Vueling—reducing codebase by **60%**, cutting release cycles from **8 to 2 weeks**, and enabling 3x faster feature delivery for **1M+ users**. I've reduced CI/CD build times by **80%**, integrated secure payments (3DS2, Apple Pay), and established TDD practices across teams.
 
 Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS app and **payment integrations**, which won a **2018 Business Innovation Award**. I'm also a **5-star Codementor with 155+ sessions**, and recently won **2 hackathons with Moxito**, a Web3 fitness rewards app on Farcaster.
 
