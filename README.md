@@ -25,13 +25,20 @@ I'm currently exploring opportunities where I can combine mobile architecture, t
 ## Core Expertise
 
 **Mobile & Frontend**: React Native (Expo), iOS (Swift, SwiftUI), Android (Kotlin), JavaScript, TypeScript, React, Next.js
+
 **React Native**: Expo, Metro, Hermes, React Navigation, Redux Toolkit, Native Modules.
+
 **iOS**: Swift 6.x, SwiftUI, UIKit, Objective-C, async/await, Swift Package Manager, Keychain, Deep Linking/Universal Links.
+
 **Crypto/Web3**: Smart Contracts (Solidity, Foundry), Wallet Integration (WalletConnect), ethers.js, viem, ZK Proofs (Noir), Farcaster SDK
+
 **Security and Payments**: SSL Pinning, Secure Enclave, Keychain, Keystore, Biometrics (Face/Touch ID), 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Wallet, Google Wallet, Auth0, OAuth2/OIDC.
+
 **Testing and Quality**: TDD/BDD, XCTest, XCUITest, Given-When-Then, Jest, Feature Flags, Crashlytics, Firebase, Instruments profiling, Cypress, Charles Proxy.
+
 **DevOps and Release**: Fastlane, GitHub Actions, CI/CD, App Store Connect, TestFlight, Trunk-based development, Git (rebase/squash/fixups), Docker.
-**Other**: Rust, AWS (Lambda, Serverless), NextJS, NodeJS, Supabase, MongoDB, Localization, Accessibility, Scriptable
+
+**Other**: Rust, AWS (Lambda, Serverless), NodeJS, Supabase, MongoDB, Localization, Accessibility, Scriptable
 
 ---
 
