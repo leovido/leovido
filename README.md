@@ -132,7 +132,12 @@ Anonymous Farcaster client using Noir ZK proofs.
 
 **Exploring:** Farcaster protocol, React Native architecture patterns, modern iOS development  
 **Available for:** Senior Mobile Engineer roles (Madrid/Remote EU) and contract iOS/React Native work  
-**Looking for:** Product-focused teams that value quality, trunk-based development, and building products users love
+**Looking for:** I’m looking for a role that sits right at the intersection of deep R&D and high-velocity shipping.
+First, I want technical variety. I thrive when I can jump between projects—applying what I’ve learned about ZK or Wallet infrastructure in one context to solve problems in another. I don't just want to write code; I want to expose myself to the breadth of the Web3 ecosystem.
+
+Second, I’m looking for a team where I can act as a force multiplier. I’ve been building an internal orchestration tool to automate best practices and leverage AI for development. I want a culture where I can deploy systems like this to help not just my client, but the entire engineering studio move faster.
+
+Finally, I want meaningful work. Whether it’s bridging TradFi to DeFi or solving identity privacy, I’m looking for equity and ownership in projects that are actually pushing crypto adoption forward.
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/christianleovido/) • [Twitter](https://twitter.com/c_leovido) • [Farcaster](https://warpcast.com/leovido.eth)
 
