@@ -3,9 +3,9 @@
 
 I'm a **Senior Mobile Engineer** with **9 years scaling apps** for **millions** of users. At Avios (IAG Loyalty), I led the **UIKit -> SwiftUI -> React Native migration** for British Airways, Aer Lingus, and Vueling—reducing codebase by **60%**, cutting release cycles from **8 to 2 weeks**, and enabling 3x faster feature delivery for **1M+ users**. I've reduced CI/CD build times by **80%**, integrated secure payments (3DS2, Apple Pay), and established TDD practices across teams.
 
-Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS app and **payment integrations**, which won a **2018 Business Innovation Award**. I'm also a **5-star Codementor with 155+ sessions**, and recently won **2 hackathons with Moxito**, a Web3 fitness rewards app on Farcaster.
+Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS app and **payment integrations**, which won a **2018 Business Innovation Award**. I'm also a **5-star Codementor with 155+ sessions**, and recently won **2 hackathons with Moxito**, a Web3 fitness rewards app on Farcaster, and **10+ frames and iOS widgets**.
 
-I'm currently exploring opportunities where I can combine mobile architecture, team leadership, and emerging tech like Web3, ideally in a remote-first environment.
+I'm currently exploring opportunities where I can combine mobile architecture, team leadership, and emerging tech like Web3, in a remote-first environment.
 
 **Available for full-time and contract work** | [Email](mailto:0xleovido@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
 
@@ -13,7 +13,7 @@ I'm currently exploring opportunities where I can combine mobile architecture, t
 
 ## 📊 Impact Highlights
 
-🏆 **$10.5K** in hackathon winnings (Moxito)  
+🏆 **$10.5K** in two hackathon winnings (Moxito)  
 📱 **1M+ users** served across airline loyalty apps  
 ⚡ **80% faster** CI/CD (40min → 8min builds)  
 ✅ **99.5% crash-free** sessions at scale  
@@ -24,21 +24,14 @@ I'm currently exploring opportunities where I can combine mobile architecture, t
 
 ## Core Expertise
 
-**Mobile & Frontend**: React Native (Expo), iOS (Swift, SwiftUI), Android (Kotlin), TypeScript, React, Next.js
-
+**Mobile & Frontend**: React Native (Expo), iOS (Swift, SwiftUI), Android (Kotlin), JavaScript, TypeScript, React, Next.js
 **React Native**: Expo, Metro, Hermes, React Navigation, Redux Toolkit, Native Modules.
-
-**iOS**: Swift 6.x, SwiftUI, UIKit, Objective-C, Core Animation, Core Data, AVFoundation, Combine, async/await, The Composable Architecture (TCA), Xcode Cloud, protocol-oriented programming (POP), MVVM+Coordinator, Cocoapods, Swift Package Manager, Keychain, CallKit, APNs, CoreData, App Tracking Transparency, Privacy Manifest, Deep Linking/Universal Links.
-
-**Crypto/Web3**: Smart Contracts (Solidity, Hardhat), Wallet Integration (WalletConnect, Metamask SDK), ethers.js, viem, Zero-Knowledge Proofs (Noir), Farcaster SDK
-
-**Security and Payments**: SSL Pinning, 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Pay, Apple Wallet, Google Pay, Auth0 OAuth2/OIDC, Secure Enclave, biometric auth, encryption.
-
+**iOS**: Swift 6.x, SwiftUI, UIKit, Objective-C, async/await, Swift Package Manager, Keychain, Deep Linking/Universal Links.
+**Crypto/Web3**: Smart Contracts (Solidity, Foundry), Wallet Integration (WalletConnect), ethers.js, viem, ZK Proofs (Noir), Farcaster SDK
+**Security and Payments**: SSL Pinning, Secure Enclave, Keychain, Keystore, Biometrics (Face/Touch ID), 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Wallet, Google Wallet, Auth0, OAuth2/OIDC.
 **Testing and Quality**: TDD/BDD, XCTest, XCUITest, Given-When-Then, Jest, Feature Flags, Crashlytics, Firebase, Instruments profiling, Cypress, Charles Proxy.
-
 **DevOps and Release**: Fastlane, GitHub Actions, CI/CD, App Store Connect, TestFlight, Trunk-based development, Git (rebase/squash/fixups), Docker.
-
-**Other**: AWS (Lambda, Serverless), NextJS, NodeJS, Supabase, MongoDB, Localization, Accessibility.
+**Other**: Rust, AWS (Lambda, Serverless), NextJS, NodeJS, Supabase, MongoDB, Localization, Accessibility, Scriptable
 
 ---
 
