@@ -17,8 +17,15 @@ I'm currently exploring opportunities where I can combine mobile architecture, t
 📱 **1M+ users** served across airline loyalty apps  
 ⚡ **80% faster** CI/CD (40min → 8min builds)  
 ✅ **99.5% crash-free** sessions at scale  
-💬 **155+ mentoring** sessions with 5/5 stars  
 🏅 **2018 European Innovation Award** winner (AccentPOS)
+
+💬 **Earned a 5/5-star rating on Codementor (155+ sessions)** and consistently **recommended** by **engineering leadership** on LinkedIn for **communication** and **architectural insight**
+
+Check it out here:
+https://www.codementor.io/@christian.leovido
+
+Recommendations:
+https://www.linkedin.com/in/christianleovido
 
 ---
 
