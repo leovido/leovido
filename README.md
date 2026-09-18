@@ -1,13 +1,45 @@
-# Christian Ray Leovido
+# C. Leovido
 **Senior Mobile Engineer** | React Native, iOS, Solidity | Building on Farcaster and Web3 | Madrid, Spain
 
 I'm a **Senior Mobile Engineer** with **9 years scaling apps** for **millions** of users. At Avios (IAG Loyalty), I led the **UIKit -> SwiftUI -> React Native migration** for British Airways, Aer Lingus, and Vueling—reducing codebase by **60%**, cutting release cycles from **8 to 2 weeks**, and enabling 3x faster feature delivery for **1M+ users**. I've reduced CI/CD build times by **80%**, integrated secure payments (3DS2, Apple Pay), and established TDD practices across teams.
 
 Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS app and **payment integrations**, which won a **2018 Business Innovation Award**. I'm also a **5-star Codementor with 155+ sessions**, and recently won **2 hackathons with Moxito**, a Web3 fitness rewards app on Farcaster, and **10+ frames and iOS widgets**.
 
-I'm currently exploring opportunities where I can combine mobile architecture, team leadership, and emerging tech like Web3, in a remote-first environment.
+## 🎯 Current Focus
 
-**Available for full-time and contract work** | [Email](mailto:0xleovido@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
+**At Checkout.com:** Driving React Native SDK feature parity, automating release pipelines, and establishing shift-left QA practices across platform teams.
+
+**AI & Knowledge Sharing:** Writing about AI harness engineering on [Substack](https://leovido.substack.com/) — exploring systematic approaches to working with AI, embedding expertise into portable workflows, and building compounding leverage for developers.
+
+**Growing Into:** Technical authority and strategic influence. I'm deliberately building visibility through:
+- Writing about mobile architecture and AI-assisted development workflows
+- Sharing systematic approaches to cross-platform collaboration
+- Experimenting with AI tools for developer productivity
+
+## 🧠 Problem-Solving Approach
+
+**When facing ambiguity**, I:
+- Gather data from multiple sources and assess conditions systematically
+- Balance exploring new possibilities with taking decisive action
+- Create backup plans while remaining adaptable to change
+
+**When architecting solutions**, I:
+- Think abstractly and conceptually, then translate into concrete implementation
+- Combine imagination, logic, and rigor — the best outcomes require all three
+- Focus on direct, real-world consequences of technical decisions
+
+**When collaborating**, I:
+- Prefer small circles of close contacts (low extraversion — quality over quantity)
+- Tell people honestly what I think and hold them accountable
+- Stay behind the scenes while driving strategic outcomes
+
+## Knowledge Sharing & Writing
+
+- **[Substack](https://leovido.substack.com/)**: Writing on AI harness engineering — systematic approaches to embedding expertise into AI workflows
+- **Codementor**: 5/5-star rating on Codementor (155+ sessions)** and consistently **recommended** by **engineering leadership** on LinkedIn for **communication** and **architectural insight**
+- **Internal**: Led "shift-left QA" sessions; building consensus on mobile best practices
+
+[Email](mailto:leo.dev@privaro.me) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
 
 ---
 
@@ -19,13 +51,8 @@ I'm currently exploring opportunities where I can combine mobile architecture, t
 ✅ **99.5% crash-free** sessions at scale  
 🏅 **2018 European Innovation Award** winner (AccentPOS)
 
-💬 **Earned a 5/5-star rating on Codementor (155+ sessions)** and consistently **recommended** by **engineering leadership** on LinkedIn for **communication** and **architectural insight**
-
 Check it out here:
 https://www.codementor.io/@christian.leovido
-
-Recommendations:
-https://www.linkedin.com/in/christianleovido
 
 ---
 
@@ -91,29 +118,33 @@ https://www.codementor.io/@christian.leovido
 
 ## Production Experience
 
-### **Checkout.com** — Senior Mobile Engineer (Parser)
+### Checkout.com — Senior Mobile Engineer (Parser)
 
-**React Native SDK Development**
-- Drove React Native SDK to **full feature parity** with native SDKs
-- Architected and implemented critical SDK features for payment processing at scale
+**React Native SDK Strategy & Execution**
+- Drove SDK to **full feature parity** with native SDKs — translated product requirements into technical roadmap
+- Architected critical payment processing features balancing innovation with security constraints
 
-**DevEx & Release Automation**
-- Automated mobile release pipelines, reducing manual overhead and release friction
-- Improved CI/CD reliability and speed across iOS and Android platforms
+**AI & Developer Productivity**
+- Applied AI harness techniques for cross-platform collaboration, boosting team productivity
+- Building systematic approaches to embed mobile development expertise into AI workflows
+- Experimenting with AI-assisted development for React Native and iOS
 
-**Quality & Testing**
-- Strengthened E2E test reliability, cutting test suite execution time by **50%** across mobile platforms
-- Led **"shift-left QA"** initiative — introduced config-driven E2E testing POC
-- Established mobile testing best practices across platform teams
+**Release Pipeline Automation** 
+- Automated mobile release pipelines, eliminating manual friction
+- **Result**: Faster, more reliable releases with systematic rollback plans
 
-**Security**
-- Resolved **critical security vulnerabilities** in mobile SDKs
+**Quality Strategy: "Shift-Left QA"**
+- Strengthened E2E test reliability, reducing test suite execution time by **50%**
+- Designed and POC'd **config-driven E2E testing** framework
+- Established systematic testing practices across iOS, Android, and React Native teams
+
+**Security & Risk Mitigation**
+- Resolved critical security vulnerabilities using systematic risk assessment
 - Implemented secure coding practices for payment-sensitive codebases
 
-**Cross-Platform Collaboration**
-- Built consensus across iOS, Android, and React Native platform teams
-- Introduced strong mobile engineering practices organization-wide
-- Proactively drove quality assurance improvements across client teams
+**Cross-Platform Consensus Building** 
+- Built alignment across iOS, Android, and React Native platform teams
+- Introduced mobile engineering practices that balanced innovation with pragmatism
 
 ### **Avios (IAG Loyalty)** - British Airways, Aer Lingus, Vueling loyalty apps
 - Led UIKit → SwiftUI → React Native migration
