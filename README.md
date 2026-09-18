@@ -91,6 +91,11 @@ https://www.codementor.io/@christian.leovido
 
 ## Production Experience
 
+**Checkout.com** 
+- Led the development of the React Native SDK
+- Reduced e2e test suite runs 50% across mobile platforms
+- Applied AI harness for cross platform collaboration to boost productivity
+
 **Avios (IAG Loyalty)** - British Airways, Aer Lingus, Vueling loyalty apps
 - Led UIKit → SwiftUI → React Native migration
 - Integrated payment providers and secure authentication
