@@ -91,22 +91,41 @@ https://www.codementor.io/@christian.leovido
 
 ## Production Experience
 
-**Checkout.com** 
-- Led the development of the React Native SDK
-- Reduced e2e test suite runs 50% across mobile platforms
-- Applied AI harness for cross platform collaboration to boost productivity
+### **Checkout.com** — Senior Mobile Engineer (Parser)
 
-**Avios (IAG Loyalty)** - British Airways, Aer Lingus, Vueling loyalty apps
+**React Native SDK Development**
+- Drove React Native SDK to **full feature parity** with native SDKs
+- Architected and implemented critical SDK features for payment processing at scale
+
+**DevEx & Release Automation**
+- Automated mobile release pipelines, reducing manual overhead and release friction
+- Improved CI/CD reliability and speed across iOS and Android platforms
+
+**Quality & Testing**
+- Strengthened E2E test reliability, cutting test suite execution time by **50%** across mobile platforms
+- Led **"shift-left QA"** initiative — introduced config-driven E2E testing POC
+- Established mobile testing best practices across platform teams
+
+**Security**
+- Resolved **critical security vulnerabilities** in mobile SDKs
+- Implemented secure coding practices for payment-sensitive codebases
+
+**Cross-Platform Collaboration**
+- Built consensus across iOS, Android, and React Native platform teams
+- Introduced strong mobile engineering practices organization-wide
+- Proactively drove quality assurance improvements across client teams
+
+### **Avios (IAG Loyalty)** - British Airways, Aer Lingus, Vueling loyalty apps
 - Led UIKit → SwiftUI → React Native migration
 - Integrated payment providers and secure authentication
 - Established TDD/BDD practices with XCTest
 
-**AccentPOS** - Full-stack POS system (Co-founder)
+### **AccentPOS** - Full-stack POS system (Co-founder)
 - iOS app, Node.js backend, real-time sync
 - Payment integrations (Star Micronics, Paymentsense, EVO)
 - Won 2018 Business Innovation Award
 
-**Luzia AI** - Consumer iOS app
+### **Luzia AI** - Consumer iOS app
 - Google Ads SDK integration
 - High-impact bug fixes with test coverage
 
