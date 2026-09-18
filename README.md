@@ -1,9 +1,18 @@
 # C. Leovido
-**Senior Mobile Engineer** | React Native, iOS, Solidity | Building on Farcaster and Web3 | Madrid, Spain
 
-I'm a **Senior Mobile Engineer** with **9 years scaling apps** for **millions** of users. At Avios (IAG Loyalty), I led the **UIKit -> SwiftUI -> React Native migration** for British Airways, Aer Lingus, and Vueling—reducing codebase by **60%**, cutting release cycles from **8 to 2 weeks**, and enabling 3x faster feature delivery for **1M+ users**. I've reduced CI/CD build times by **80%**, integrated secure payments (3DS2, Apple Pay), and established TDD practices across teams.
+**Strategic Mobile Engineer** | React Native, iOS, Solidity | Madrid, Spain
 
-Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS app and **payment integrations**, which won a **2018 Business Innovation Award**. I'm also a **5-star Codementor with 155+ sessions**, and recently won **2 hackathons with Moxito**, a Web3 fitness rewards app on Farcaster, and **10+ frames and iOS widgets**.
+I translate complex technical challenges into systematic solutions. With **9 years scaling apps for millions of users**, I bridge high-level architecture decisions with pragmatic, real-world execution.
+
+**How I work:**
+- **Strategic**: I gather data from multiple sources, assess conditions systematically, and mobilize teams around clear plans
+- **Autonomous**: Self-directed, internally motivated, accountable for outcomes
+- **Creative + Deliberative**: I find original solutions through rigorous analysis
+- **Behind-the-scenes impact**: I prefer driving results over being in the spotlight
+
+[Email](mailto:leo.dev@privaro.me) | [LinkedIn](https://www.linkedin.com/in/christianleovido/) | [Substack](https://leovido.substack.com/) | [Twitter](https://twitter.com/c_leovido)
+
+---
 
 ## 🎯 Current Focus
 
@@ -11,12 +20,45 @@ Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS a
 
 **AI & Knowledge Sharing:** Writing about AI harness engineering on [Substack](https://leovido.substack.com/) — exploring systematic approaches to working with AI, embedding expertise into portable workflows, and building compounding leverage for developers.
 
-**Growing Into:** Technical authority and strategic influence. I'm deliberately building visibility through:
-- Writing about mobile architecture and AI-assisted development workflows
-- Sharing systematic approaches to cross-platform collaboration
-- Experimenting with AI tools for developer productivity
+*My natural style is autonomous and strategic (PrinciplesYou: 98% Autonomous, Strategist archetype), so I'm intentionally building visibility through technical writing and systematic knowledge sharing.*
+
+---
+
+## 📊 Impact Highlights
+
+🏆 **$10.5K** in two hackathon winnings (Moxito)
+
+📱 **1M+ users** served across airline loyalty apps
+
+⚡ **80% faster** CI/CD (40min → 8min builds)
+
+✅ **99.5% crash-free** sessions at scale
+
+🏅 **2018 European Innovation Award** winner (AccentPOS)
+
+💬 **Earned a 5/5-star rating on Codementor (155+ sessions)** and consistently **recommended** by **engineering leadership** on LinkedIn for **communication** and **architectural insight**
+
+---
+
+## 🤖 AI Harness Engineering
+
+I'm currently exploring how to systematically work with AI — moving beyond ad-hoc prompting to **structured, portable AI systems**.
+
+**My approach:** Building AI harnesses that embed expertise, preserve context, and compound knowledge over time.
+
+**Recent writing:** [Why am I learning AI harness engineering?](https://substack.com/home/post/p-209537811)
+- How to save time with `AGENTS.md` and `CLAUDE.md` files
+- Creating specialized subagents (DevOps, mobile, code review)
+- Protecting critical thinking while leveraging AI
+- Building compounding leverage in a landscape of changing models
+
+**Currently learning:** [Walking Labs Harness Engineering course](https://walkinglabs.github.io/learn-harness-engineering/en/)
+
+---
 
 ## 🧠 Problem-Solving Approach
+
+*Based on my PrinciplesYou assessment (Strategist archetype, 90% Deliberative, 88% Creative):*
 
 **When facing ambiguity**, I:
 - Gather data from multiple sources and assess conditions systematically
@@ -29,30 +71,9 @@ Earlier, I co-founded AccentPOS, building a **full-stack POS system** with iOS a
 - Focus on direct, real-world consequences of technical decisions
 
 **When collaborating**, I:
-- Prefer small circles of close contacts (low extraversion — quality over quantity)
+- Prefer small circles of close contacts (quality over quantity)
 - Tell people honestly what I think and hold them accountable
 - Stay behind the scenes while driving strategic outcomes
-
-## Knowledge Sharing & Writing
-
-- **[Substack](https://leovido.substack.com/)**: Writing on AI harness engineering — systematic approaches to embedding expertise into AI workflows
-- **Codementor**: 5/5-star rating on Codementor (155+ sessions)** and consistently **recommended** by **engineering leadership** on LinkedIn for **communication** and **architectural insight**
-- **Internal**: Led "shift-left QA" sessions; building consensus on mobile best practices
-
-[Email](mailto:leo.dev@privaro.me) | [LinkedIn](https://www.linkedin.com/in/christianleovido/)
-
----
-
-## 📊 Impact Highlights
-
-🏆 **$10.5K** in two hackathon winnings (Moxito)  
-📱 **1M+ users** served across airline loyalty apps  
-⚡ **80% faster** CI/CD (40min → 8min builds)  
-✅ **99.5% crash-free** sessions at scale  
-🏅 **2018 European Innovation Award** winner (AccentPOS)
-
-Check it out here:
-https://www.codementor.io/@christian.leovido
 
 ---
 
@@ -60,59 +81,21 @@ https://www.codementor.io/@christian.leovido
 
 **Mobile & Frontend**: React Native (Expo), iOS (Swift, SwiftUI), Android (Kotlin), JavaScript, TypeScript, React, Next.js
 
-**React Native**: Expo, Metro, Hermes, React Navigation, Redux Toolkit, Native Modules.
+**React Native**: Expo, Metro, Hermes, React Navigation, Redux Toolkit, Native Modules
 
-**iOS**: Swift 6.x, SwiftUI, UIKit, Objective-C, async/await, Swift Package Manager, Keychain, Deep Linking/Universal Links.
+**iOS**: Swift 6.x, SwiftUI, UIKit, Objective-C, async/await, Swift Package Manager, Keychain, Deep Linking/Universal Links
 
 **Crypto/Web3**: Smart Contracts (Solidity, Foundry), Wallet Integration (WalletConnect), ethers.js, viem, ZK Proofs (Noir), Farcaster SDK
 
-**Security and Payments**: SSL Pinning, Secure Enclave, Keychain, Keystore, Biometrics (Face/Touch ID), 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Wallet, Google Wallet, Auth0, OAuth2/OIDC.
+**Security and Payments**: SSL Pinning, Secure Enclave, Keychain, Keystore, Biometrics (Face/Touch ID), 3DS2 (EMV 3-D Secure), PSD2 SCA, Apple Wallet, Google Wallet, Auth0, OAuth2/OIDC
 
-**Testing and Quality**: TDD/BDD, XCTest, XCUITest, Given-When-Then, Jest, Feature Flags, Crashlytics, Firebase, Instruments profiling, Cypress, Charles Proxy.
+**Testing and Quality**: TDD/BDD, XCTest, XCUITest, Given-When-Then, Jest, Feature Flags, Crashlytics, Firebase, Instruments profiling, Cypress, Charles Proxy
 
-**DevOps and Release**: Fastlane, GitHub Actions, CI/CD, App Store Connect, TestFlight, Trunk-based development, Git (rebase/squash/fixups), Docker.
+**DevOps and Release**: Fastlane, GitHub Actions, CI/CD, App Store Connect, TestFlight, Trunk-based development, Git (rebase/squash/fixups), Docker
+
+**AI & Automation**: AI Harness Engineering, AWS AI/ML, Systematic prompting workflows, AGENTS.md patterns
 
 **Other**: Rust, AWS (Lambda, Serverless), NodeJS, Supabase, MongoDB, Localization, Accessibility, Scriptable
-
----
-
-## Featured Work
-
-### 🏆 Moxito iOS - Hackathon Winner ($10.5K prizes)
-*SwiftUI • TCA • HealthKit • TestFlight*
-
-Farcaster rewards tracking app with privacy-first architecture. Won 2 hackathons on Devfolio.
-
-- **100 TestFlight users** in first 3 months
-- **1.1K Farcaster followers** on launch
-- HealthKit integration for activity rewards
-
-[View Repository](https://github.com/leovido/moxito-ios) • [Case Study](https://devfolio.co/projects/moxito-app-ios-9810)
-
-#### Moxito iOS - Screenshots
-<p>
-  <img src="https://github.com/leovido/moxito-ios/raw/main/Screenshots/iphone_app_store_moxito_1.png" width="30%" />
-  <img src="https://github.com/leovido/moxito-ios/raw/main/Screenshots/iphone_app_store_moxito_2.png" width="30%" />
-  <img src="https://github.com/leovido/moxito-ios/raw/main/Screenshots/iphone_app_store_moxito_3.png" width="30%" />
-</p>
-
-### AWS Certifications
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.credly.com/badges/dca4de90-21f9-4b34-a530-84f56a7a9b38" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 200px; height: 200px;">
-  </a>
-  
-  <a href="https://www.credly.com/badges/788a72c7-0241-46ae-8c67-0f059082defd" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI ML Practitioner" style="width: 200px; height: 200px;">
-  </a>
-  
-  <a href="https://www.credly.com/badges/5668ae4c-ae98-482d-b9ff-664fce5896b0" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS AI Early Adopter" style="width: 200px; height: 200px;">
-  </a>
-</div>
-
-### Codementor profile
-https://www.codementor.io/@christian.leovido
 
 ---
 
@@ -124,13 +107,8 @@ https://www.codementor.io/@christian.leovido
 - Drove SDK to **full feature parity** with native SDKs — translated product requirements into technical roadmap
 - Architected critical payment processing features balancing innovation with security constraints
 
-**AI & Developer Productivity**
-- Applied AI harness techniques for cross-platform collaboration, boosting team productivity
-- Building systematic approaches to embed mobile development expertise into AI workflows
-- Experimenting with AI-assisted development for React Native and iOS
-
-**Release Pipeline Automation** 
-- Automated mobile release pipelines, eliminating manual friction
+**Release Pipeline Automation** *(Planner archetype in action)*
+- Automated mobile release pipelines, eliminating manual friction and reducing release cycles
 - **Result**: Faster, more reliable releases with systematic rollback plans
 
 **Quality Strategy: "Shift-Left QA"**
@@ -142,21 +120,36 @@ https://www.codementor.io/@christian.leovido
 - Resolved critical security vulnerabilities using systematic risk assessment
 - Implemented secure coding practices for payment-sensitive codebases
 
-**Cross-Platform Consensus Building** 
+**Cross-Platform Consensus Building** *(Strategist trait: mobilizing others)*
 - Built alignment across iOS, Android, and React Native platform teams
 - Introduced mobile engineering practices that balanced innovation with pragmatism
 
-### **Avios (IAG Loyalty)** - British Airways, Aer Lingus, Vueling loyalty apps
-- Led UIKit → SwiftUI → React Native migration
-- Integrated payment providers and secure authentication
-- Established TDD/BDD practices with XCTest
+**AI & Developer Productivity**
+- Applied AI harness techniques for cross-platform collaboration, boosting team productivity
+- Building systematic approaches to embed mobile development expertise into AI workflows
 
-### **AccentPOS** - Full-stack POS system (Co-founder)
+---
+
+### Avios (IAG Loyalty) — British Airways, Aer Lingus, Vueling loyalty apps
+
+- Led UIKit → SwiftUI → React Native migration, reducing codebase by **60%**
+- Cut release cycles from **8 to 2 weeks**, enabling 3x faster feature delivery for **1M+ users**
+- Integrated payment providers and secure authentication (3DS2, Apple Pay)
+- Established TDD/BDD practices with XCTest across teams
+- Reduced CI/CD build times by **80%** (40min → 8min)
+
+---
+
+### AccentPOS — Full-stack POS system (Co-founder)
+
 - iOS app, Node.js backend, real-time sync
 - Payment integrations (Star Micronics, Paymentsense, EVO)
-- Won 2018 Business Innovation Award
+- Won **2018 Business Innovation Award**
 
-### **Luzia AI** - Consumer iOS app
+---
+
+### Luzia AI — Consumer iOS app
+
 - Google Ads SDK integration
 - High-impact bug fixes with test coverage
 
@@ -164,45 +157,75 @@ https://www.codementor.io/@christian.leovido
 
 ## 🎯 Portfolio Projects
 
-### [Planet Viewer](https://github.com/leovido/Planet-Viewer-Portfolio)
-*SwiftUI • MVVM • Combine • async/await*  
+### 🏆 Moxito iOS - Hackathon Winner ($10.5K prizes)
+
+_SwiftUI • TCA • HealthKit • TestFlight_
+
+Farcaster rewards tracking app with privacy-first architecture. Won 2 hackathons on Devfolio.
+
+- **100 TestFlight users** in first 3 months
+- **1.1K Farcaster followers** on launch
+- HealthKit integration for activity rewards
+
+[View Repository](https://github.com/leovido/moxito-ios) • [Case Study](https://devfolio.co/projects/moxito-app-ios-9810)
+
+#### Moxito iOS - Screenshots
+
+![](https://github.com/leovido/moxito-ios/raw/main/Screenshots/iphone_app_store_moxito_1.png)![](https://github.com/leovido/moxito-ios/raw/main/Screenshots/iphone_app_store_moxito_2.png)![](https://github.com/leovido/moxito-ios/raw/main/Screenshots/iphone_app_store_moxito_3.png)
+
+---
+
+### Planet Viewer
+
+_SwiftUI • MVVM • Combine • async/await_
+
 Star Wars planet browser showcasing modern iOS patterns. **Take-home exercise that landed me the Luzia job.**
 
-### [TCA Finance App](https://github.com/leovido/composable-much-better-exercise)
-*The Composable Architecture • SwiftUI • SPM*  
+[View Repository](https://github.com/leovido/Planet-Viewer-Portfolio)
+
+---
+
+### TCA Finance App
+
+_The Composable Architecture • SwiftUI • SPM_
+
 Finance demo with modular architecture. **Take-home that got me an offer from "Much Better".**
 
-### [Functional Programming Case Study](https://github.com/leovido/FP-CaseStudy-Swift)
-*Pure Functions • Monads • State Management*  
+[View Repository](https://github.com/leovido/composable-much-better-exercise)
+
+---
+
+### Functional Programming Case Study
+
+_Pure Functions • Monads • State Management_
+
 Swift port of "13 Ways of Looking at a Turtle" from F#. Exploring functional patterns in iOS.
 
-### [Rumourcast](https://github.com/leovido/rumourcast)
-*Zero-Knowledge Proofs • Farcaster Protocol*  
+[View Repository](https://github.com/leovido/FP-CaseStudy-Swift)
+
+---
+
+### Rumourcast
+
+_Zero-Knowledge Proofs • Farcaster Protocol_
+
 Anonymous Farcaster client using Noir ZK proofs.
 
----
-
-## Open Source & Community
-
-- **Codementor**: 5/5 rating, 85+ sessions, 155+ mentoring sessions
-- **AWS Certified**: Cloud Practitioner, AI Practitioner
-- Active contributor to iOS and web3 ecosystems
+[View Repository](https://github.com/leovido/rumourcast)
 
 ---
 
-## 🚀 Currently
+## Knowledge Sharing & Writing
 
-**Exploring:** Farcaster protocol, React Native architecture patterns, modern iOS development  
-**Available for:** Senior Mobile Engineer roles (Madrid/Remote EU) and contract iOS/React Native work  
-**Looking for:** 
-I’m looking for a role that sits right at the intersection of deep R&D and high-velocity shipping.
-First, I want technical variety. I thrive when I can jump between projects—applying what I’ve learned about ZK or Wallet infrastructure in one context to solve problems in another. I don't just want to write code; I want to expose myself to the breadth of the Web3 ecosystem.
+- **[Substack](https://leovido.substack.com/)**: Writing on AI harness engineering — systematic approaches to embedding expertise into AI workflows
+- **Codementor**: 5-star rating, 155+ sessions — mentoring on mobile architecture, React Native, iOS
+- **Internal**: Led "shift-left QA" sessions; building consensus on mobile best practices
 
-Second, I’m looking for a team where I can act as a force multiplier. I’ve been building an internal orchestration tool to automate best practices and leverage AI for development. I want a culture where I can deploy systems like this to help not just my team, but the entire engineering studio move faster.
+---
 
-Finally, I want meaningful work. Whether it’s bridging TradFi to DeFi or solving identity privacy, I’m looking for equity and ownership in projects that are actually pushing crypto adoption forward.
+## AWS Certifications
 
-Let's connect: [LinkedIn](https://www.linkedin.com/in/christianleovido/) • [Twitter](https://twitter.com/c_leovido) • [Farcaster](https://warpcast.com/leovido.eth)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/dca4de90-21f9-4b34-a530-84f56a7a9b38)[![AWS Certified AI ML Practitioner](https://images.credly.com/size/200x200/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/788a72c7-0241-46ae-8c67-0f059082defd)[![AWS AI Early Adopter](https://images.credly.com/size/200x200/images/834f2c8d-2d2c-4ce7-9580-02a351c331626/image.png)](https://www.credly.com/badges/5668ae4c-ae98-482d-b9ff-664fce5896b0)
 
 ---
 
@@ -214,4 +237,8 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/christianleovido/) • [Tw
 
 ---
 
-📍 Madrid, Spain | 🌍 Open to **remote** opportunities | 💼 Available for immediate work
+📍 Madrid, Spain | 🌍 Open to **remote** opportunities
+
+---
+
+*Profile structured around my PrinciplesYou assessment: Strategist archetype, 90% Deliberative, 88% Creative, 98% Autonomous*
