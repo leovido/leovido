@@ -20,8 +20,6 @@ I translate complex technical challenges into systematic solutions. With **9 yea
 
 **AI & Knowledge Sharing:** Writing about AI harness engineering on [Substack](https://leovido.substack.com/) — exploring systematic approaches to working with AI, embedding expertise into portable workflows, and building compounding leverage for developers.
 
-*My natural style is autonomous and strategic (PrinciplesYou: 98% Autonomous, Strategist archetype), so I'm intentionally building visibility through technical writing and systematic knowledge sharing.*
-
 ---
 
 ## 📊 Impact Highlights
