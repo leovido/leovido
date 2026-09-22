@@ -56,8 +56,6 @@ I'm currently exploring how to systematically work with AI — moving beyond ad-
 
 ## 🧠 Problem-Solving Approach
 
-*Based on my PrinciplesYou assessment (Strategist archetype, 90% Deliberative, 88% Creative):*
-
 **When facing ambiguity**, I:
 - Gather data from multiple sources and assess conditions systematically
 - Balance exploring new possibilities with taking decisive action
@@ -233,10 +231,3 @@ Anonymous Farcaster client using Noir ZK proofs.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leovido&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
----
-
-📍 Madrid, Spain | 🌍 Open to **remote** opportunities
-
----
-
-*Profile structured around my PrinciplesYou assessment: Strategist archetype, 90% Deliberative, 88% Creative, 98% Autonomous*
